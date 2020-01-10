@@ -1,0 +1,34 @@
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-style: inset;
+    border-width: 1px;
+} 
+body{
+	border: 15px solid #ff9900;
+	margin-left:20%;
+	margin-right: 20%; 
+	padding: 20px;
+}
+.one{
+	text-transform: uppercase;
+	color: #B54201;
+	font-family: 'Rancho', cursive;
+	font-stretch: 6.0;
+}
+.two{
+	font-size: 40px;
+	font-family: 'Istok Web', sans-serif;
+	font-weight: 300;
+}
+}
+.three{
+	font-family: 'Noto Sans TC', sans-serif;
+	border-left: 4px solid #bdc3c7;
+}
+.four{
+	font-family: 'Noto Sans TC' , sans-serif;
+}
